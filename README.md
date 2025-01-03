@@ -1,2 +1,2 @@
-Contaions all the sorting techniques 
+Contains all the sorting techniques 
 -Selection sort 
